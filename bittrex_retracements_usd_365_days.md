@@ -1,6 +1,6 @@
 | Market | Range | Price| Retracement | Doubles to 50% |
 | --- | --- | --- | --- | --- |
-| BSV | High: 100<br />Low: 52.193 | 52.193 | 100.00 % | 1.46 |
+| BSV | High: 99<br />Low: 52.193 | 52.193 | 100.00 % | 1.45 |
 | PAX | High: 997.995<br />Low: 0 | 1.001 | 99.90 % | 498.50 |
 | SPND | High: 0.166<br />Low: 0.057 | 0.068 | 89.91 % | 1.64 |
 | EDR | High: 0.199<br />Low: 0 | 0.023 | 88.44 % | 4.33 |
